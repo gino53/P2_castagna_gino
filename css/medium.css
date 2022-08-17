@@ -1,0 +1,42 @@
+.filter-bloc {
+    flex-direction: column;
+    margin: 2.5rem 0;
+}
+
+.filter-bloc-title h3 {
+    margin-right: 0;
+}
+
+.filter {
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+.filter-body {
+    margin-top: 1rem;
+}
+
+.section1 {
+    flex-direction: column-reverse;
+    height: auto;
+}
+
+.bloc-lodging {
+    flex: 0;
+    width: 100%;
+    margin: 0.5rem 0.625rem 0;
+}
+
+.bloc {
+    margin: 1rem 0;
+}
+
+.bloc-popular {
+    flex: 0;
+    width: 100%;
+    margin: 0 0.625rem 0.5rem;
+}
+
+.title-popular {
+    margin-bottom: 0.5rem;
+}
